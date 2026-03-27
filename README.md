@@ -1,7 +1,8 @@
 # CLASE-3
 
 ## Algoritmo 
-es una secuencua instrucciones paso a paso logica
+
+- es una secuencua instrucciones paso a paso logica
 ---
 #### Estructura 
 
