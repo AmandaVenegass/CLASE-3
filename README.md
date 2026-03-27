@@ -37,9 +37,51 @@ se utiliza principalmente el lenguaje JavaScript
 
 funciones maestras
 
-- Setup se ejecuta una sola vez al principio 
+- **Setup se ejecuta una sola vez al principio** 
 
-- Draw (bucle infinito) 60 veces en un segundo
+- **Draw (bucle infinito) 60 veces en un segundo**
+  
+-  RENDERER
+  
+-  Canvas
+
+-  ---
+BACKGROUND 
+
+v1,v2,v3 son los colores de RGB
+[PAGINA](https://htmlcolorcodes.com/)
+a-> semi trasparente
+--- 
+#### Espacio de color rgb 
+
+red ( 255, 0 ,0 )
+green ( 0, 255, 0) 
+white
+blue
+
+#### Espacio de color HSV HSB 
+
+Hue 
+saturation 
+Brightness
+
+colorMode
+
+#### Esoacio de color HSL 
+
+---
+Comentarios pj5 
+---
+
+Nuestro canva funciona con un sistema de cordenadas como un plano cartesiano pero hay que tener que el punto 0,0 no esta en el centro sino en la esquina superior izquierda
+
+(400,0) (0,400) (x,y)
+
+---
+figuras geometricas 
+
+point (x,y) ,stroke ( es como el borde ) ,(fill) 
+
 
 
 
