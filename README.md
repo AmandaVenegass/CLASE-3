@@ -30,10 +30,16 @@ Se usan componentes
 
 existen 700 y 800 lenguajes de programacion que se utilizan 
 pyton java c++ **JavaScrip**
-
-##Pj5
+---
+## Pj5
 
 se utiliza principalmente el lenguaje JavaScript
+
+funciones maestras
+
+- Setup se ejecuta una sola vez al principio 
+
+- Draw (bucle infinito) 60 veces en un segundo
 
 
 
